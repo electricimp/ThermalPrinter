@@ -15,6 +15,8 @@ const CHUNK_SIZE = 384;
 
 class ThermalPrinter {
 
+    static version = [1, 0, 0];
+
     // some basic printer parameters
     static printDensity        = 14         // yields 120% density, experimentally determined to be good
     static printBreakTime      = 4          // 500 us; slower but darker

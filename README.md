@@ -40,4 +40,4 @@ setDeleteLine([*value*])
 
 ## License
 
-The Thermal Printer library is licensed under the (MIT License)[./LICENSE]
+The Thermal Printer class is licensed under the (MIT License)[./LICENSE]
